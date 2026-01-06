@@ -41,3 +41,12 @@ Simple backend services
 
 This application can be used by rural families, health workers, and community centers to support basic healthcare tracking and awareness.
 
+
+**To run**
+
+Install all the requirements
+
+run this in terminal:
+
+streamlit run app.py
+
